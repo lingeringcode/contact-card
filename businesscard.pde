@@ -1,5 +1,5 @@
 /**
- * Visually dynamic contact "card"
+ * Contact "card" see www.clindgrencv.com/portfolio for example
  * Chris Lindgren
  * v1.0
  */
